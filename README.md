@@ -18,7 +18,7 @@ Hello Markdown!
 This is a message.
 
 ##A picture below  
-![sth wrong](http://s8.img.guang.com/p/1654344_1_2046310_400X400.jpg)
+![Wrong](http://s8.img.guang.com/p/1654344_1_2046310_400X400.jpg "蒙奇奇")
 
 ##A hyperlink below  
 [Click here and search](http://www.google.hk)
