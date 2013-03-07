@@ -45,18 +45,19 @@ Hello Markdown!
 [![image]](http://www.github.com/)  
 [image]:http://github.com/github.png "github"  
 
-##An unordered list below  
+##A bulleted list below  
 * China 
 * America
 * England
 
-#An ordered list below  
+##A numbered list below  
 1. China  
 1.1 Beijing  
 1.2 Shanghai  
 1.3 Guangdong
 2. America  
-3. England  
+3. England
+
 ###Notice:remember to insert a blank space after the dot mark
 
 ##Some tables below
