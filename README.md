@@ -14,8 +14,23 @@ Hello Markdown!
 #####head
 ######head
 
-##A meseage below
-This is a message.
+##some meseages below
+***This*** **is** *a* message.       
+
+##Single line textbox
+    两个TAB键之后输入单行文本
+##Multi-line textbox
+    只需要换行时再输入两个TAB键
+    这里也可以输入代码
+    <#include A>
+
+> Words srounded by some characters
+>  
+> add a ">" and a blank space before words
+>  
+> if U want to change ur line,add a new line and insert ">" and a blank space
+>
+> ">" is only effective by putting it at the begging of a line
 
 ##A picture below  
 ![Wrong](http://s8.img.guang.com/p/1654344_1_2046310_400X400.jpg "蒙奇奇")
@@ -25,6 +40,10 @@ This is a message.
 
 ##A hyperlink below  
 [Click here and search](http://www.google.hk)
+
+## A pictuer which contains a hyperlink
+[![image]](http://www.github.com/)  
+[image]:http://github.com/github.png "github"  
 
 ##An unordered list below  
 * China 
@@ -45,7 +64,7 @@ This is a message.
 |:---------|:--:|----------:|
 |11|12|13|
 |21|22|23|
-|31|32|33|  
+|[31][1]|32|33|  
 
 ##U can also manage the hyperlinks all at once,e.g:
 [The first link:baidu][1]  
