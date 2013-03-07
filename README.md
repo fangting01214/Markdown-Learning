@@ -20,6 +20,9 @@ This is a message.
 ##A picture below  
 ![Wrong](http://s8.img.guang.com/p/1654344_1_2046310_400X400.jpg "蒙奇奇")
 
+##A local picture below
+![Wrong](Images/Beijing.jpg "Beijing")
+
 ##A hyperlink below  
 [Click here and search](http://www.google.hk)
 
@@ -34,7 +37,7 @@ This is a message.
 1.2 Shanghai  
 1.3 Guangdong
 2. America  
-3. England
+3. England  
 ###Notice:remember to insert a blank space after the dot mark
 
 ##Some tables below
